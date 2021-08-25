@@ -1,0 +1,23 @@
+{
+  "name": "nodestarter",
+  "version": "1.0.0",
+  "description": "Create your own NodeJS server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjsouthward/node-starting-code.git"
+  },
+  "author": "Ryan Southward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjsouthward/node-starting-code/issues"
+  },
+  "homepage": "https://github.com/rjsouthward/node-starting-code#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
